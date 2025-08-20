@@ -19,7 +19,8 @@ IF 4111 (Luddy Hall)
 ## Instructor
 
 Andrew Lukefahr
-lukefahr@iu.edu
+
+_lukefahr@iu.edu_
 
 
 ## Prerequisites
