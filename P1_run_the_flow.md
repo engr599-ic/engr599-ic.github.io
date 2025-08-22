@@ -67,7 +67,7 @@ make pnr
 This launches a tool named `innovus`, and asks it to run `pnr.tcl`.  This will do the P&R on our previously synthesized netlist.  Once complete, you can open the database and view your results.  
 
 ```
-innovus -stylus
+innovus -stylus -db <path to database>
 ```
 
 
