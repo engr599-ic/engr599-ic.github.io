@@ -72,6 +72,12 @@ innovus -stylus -db ./dbs/signoff.db
 
 By default all database files are saved to the `dbs/` dir
 
+# Getting Help
+
+Both tools (genus and innovus) have a gui option that can be enabled by adding the `-gui` flag.  
+
+For documentation on available commands, both tools (in GUI mode) also have a Help dropdown that includes the user guide.  
+
 # Your Turn
 
 Now that you know the basic flow, it's time to start tweaking for improved PPA.  Your task is customize this flow twice, once to optimize performance and once to optimize for area.  
