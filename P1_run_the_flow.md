@@ -67,10 +67,16 @@ make pnr
 This launches a tool named `innovus`, and asks it to run `pnr.tcl`.  This will do the P&R on our previously synthesized netlist.  Once complete, you can open the database and view your results.  
 
 ```bash
-innovus -stylus -db <path to database>
+innovus -stylus -db ./dbs/signoff.db
 ```
 
 By default all database files are saved to the `dbs/` dir
+
+# Getting Help
+
+Both tools (genus and innovus) have a gui option that can be enabled by adding the `-gui` flag.  
+
+For documentation on available commands, both tools (in GUI mode) also have a Help dropdown that includes the user guide.  
 
 # Your Turn
 
