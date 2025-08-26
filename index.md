@@ -27,7 +27,7 @@ applications. A more detailed description can be found in the
 
 ## Projects
 
-[P1 - Run the Flow](P1_run_the_flow.md) 
+[P1 - Run the Flow](https://github.com/engr599-ic/P1_run_the_flow/blob/main/README.md)
 
 <!-- [P1 -
 Optimization](https://docs.google.com/document/d/105JyX49O5bt4fwf8lDtwJeOk-tv2ZoSdRi1HCloXQ2M)
