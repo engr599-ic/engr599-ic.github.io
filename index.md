@@ -12,7 +12,7 @@ applications. A more detailed description can be found in the
 
 ### [Syllabus](syllabus.md)
 
-### [Lecture Slides](https://github.com/engr599-ic/lecture_slides) 
+### [Lecture Slides](https://github.com/engr599-ic/lectures_pdf) 
 
 <!-- ### [Other Downloads](https://github.com/Engr315/downloads)  -->
 
