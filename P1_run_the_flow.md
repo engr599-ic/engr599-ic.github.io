@@ -24,7 +24,7 @@ ssh burrow-rhel.luddy.indiana.edu -YCA
 This only needs to be done once per project
 
 ```bash
-git clone git@github.com:engr599-ic/P1_run_the_flow.git
+git clone https://github.com/engr599-ic/P1_run_the_flow.git
 cd P1_run_the_flow
 make setup
 ```
